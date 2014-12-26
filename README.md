@@ -1,0 +1,4 @@
+home-.config-awesome
+====================
+
+awesome
